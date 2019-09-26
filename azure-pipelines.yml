@@ -5,7 +5,7 @@ variables:
   - group: 'Terraform Service Prinicpal (AAD Sandbox)'
   - group: 'Terraform State'
   - name: tfstate_key
-    value: 'jimpaine.aks-quickstart.master.tfstate'
+    value: 'aedwards.aks-quickstart.master.tfstate'
   - name: resource_name
     value: 'aks'
   - name: sub_domain
